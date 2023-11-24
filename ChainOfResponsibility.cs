@@ -73,7 +73,7 @@ public class CFO : ExpenseHandler
         }
         else
         {
-            Console.WriteLine($"Amout:- ${expense.Amount} : This is too expensive and can not be approved by just CFO, this need approval from borad");
+            Console.WriteLine($"Amout:- ${expense.Amount} : This is too expensive and can not be approved by just CFO, this need approval from the King!!!");
         }
     }
 }
